@@ -1,7 +1,6 @@
 import NavbarLogo from "./logo";
 import NavbarSearch from "./search";
 import NavbarShortcut from "./shortcut";
-import { IoChatboxOutline } from "react-icons/io5";
 
 export default function Navbar() {
   return (
