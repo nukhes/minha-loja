@@ -1,3 +1,3 @@
 export default class Global {
-  static accent = "purple-700";
+  static accent = "purple-600";
 }
